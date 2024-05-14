@@ -1,6 +1,6 @@
-# App Flutter - Fichier APK
+# Application Le monde 3.0 - Fichier APK
 
-Ce dépôt GitHub contient le fichier `app-release.apk`, qui est une l'application Le monde 3.0 construite avec Flutter. Vous trouverez ci-dessous des instructions sur ce qu'est ce fichier et comment l'installer sur votre appareil Android.
+Ce dépôt GitHub contient le fichier `app-release.apk`, qui est l'application Le monde 3.0 construite avec Flutter. Vous trouverez ci-dessous des instructions sur ce qu'est ce fichier et comment l'installer sur votre appareil Android.
 
 ## Qu'est-ce que le fichier `app-release.apk` ?
 
